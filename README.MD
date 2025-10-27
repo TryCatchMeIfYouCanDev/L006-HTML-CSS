@@ -176,16 +176,6 @@ border: 2px dashed pink;
 
 ---
 
-## 10. Next Topics
-
-In future lessons:
-
-- The **Box Model** (content, padding, border, margin)
-- **Layouts** with columns and positioning
-- **Stop & Code workshops** to apply box manipulation
-
----
-
 **Useful Links**
 
 1. https://placehold.co/
